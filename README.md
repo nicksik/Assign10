@@ -1,1 +1,2 @@
-# Assign10
+# Nick Sikorski
+# Assignment 10 Poker
