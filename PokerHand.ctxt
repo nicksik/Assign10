@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=PokerHand
+comment0.text=\r\n\ This\ class\ represents\ a\ five\ card\ poker\ hand\r\n\ \r\n\ @author\ Erica\ Eddy\r\n
+comment1.params=
+comment1.target=PokerHand()
+comment2.params=c0\ c1\ c2\ c3\ c4
+comment2.target=PokerHand(Card,\ Card,\ Card,\ Card,\ Card)
+comment3.params=deck
+comment3.target=void\ fillHand(Deck)
+numComments=4
